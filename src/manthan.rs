@@ -1,3 +1,3 @@
-pub ( crate ) fn fra(){
+pub fn fra(){
     println!("kkiki")
 }
